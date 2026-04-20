@@ -5,8 +5,6 @@
 |------|---------|
 | `Code.gs` | Server-side Google Apps Script (data layer) |
 | `index.html` | Main HTML shell |
-| `styles.html` | All CSS styles |
-| `app.html` | All client-side JavaScript |
 | `appsscript.json` | Apps Script manifest |
 
 ---
